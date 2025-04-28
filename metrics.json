@@ -1,0 +1,27 @@
+{
+  "Linear Regression": {
+    "CV R2": [
+      0.998,
+      0.997,
+      0.998,
+      0.996,
+      0.994
+    ],
+    "CV MSE": [
+      0.022,
+      0.031,
+      0.024,
+      0.047,
+      0.048
+    ]
+  },
+  "Random Forest": {
+    "Best Params": {
+      "n_estimators": 50,
+      "max_depth": 5
+    },
+    "CV R2": 1.0,
+    "Full R2": 1.0,
+    "Full MSE": 0.0
+  }
+}
